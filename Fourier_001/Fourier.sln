@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Fourier", "Fourier\Fourier.vcxproj", "{D258F6D0-A537-40E0-8DEC-99DA106B7057}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exeFourier", "exeFourier\exeFourier.vcxproj", "{31FEBEEB-E9E3-4275-BF90-1A747E840CF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D258F6D0-A537-40E0-8DEC-99DA106B7057}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D258F6D0-A537-40E0-8DEC-99DA106B7057}.Debug|Win32.Build.0 = Debug|Win32
+		{D258F6D0-A537-40E0-8DEC-99DA106B7057}.Release|Win32.ActiveCfg = Release|Win32
+		{D258F6D0-A537-40E0-8DEC-99DA106B7057}.Release|Win32.Build.0 = Release|Win32
+		{31FEBEEB-E9E3-4275-BF90-1A747E840CF0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{31FEBEEB-E9E3-4275-BF90-1A747E840CF0}.Debug|Win32.Build.0 = Debug|Win32
+		{31FEBEEB-E9E3-4275-BF90-1A747E840CF0}.Release|Win32.ActiveCfg = Release|Win32
+		{31FEBEEB-E9E3-4275-BF90-1A747E840CF0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
